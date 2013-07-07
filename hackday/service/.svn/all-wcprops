@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/hackday/!svn/ver/21/1/hackday/service
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/hackday/!svn/ver/22/1/hackday/service/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/hackday/!svn/ver/23/1/hackday/service/models.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/hackday/!svn/ver/22/1/hackday/service/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/hackday/!svn/ver/5/1/hackday/service/__init__.py
+END
